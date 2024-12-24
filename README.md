@@ -85,10 +85,6 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 - **Python**: For financial calculations and verification of results.
 - **Pandas**: For financial data manipulation in Python.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ### Português
@@ -177,8 +173,3 @@ Este projeto foi desenvolvido para demonstrar habilidades no uso do **Power BI**
 - **Power BI**: Para visualização e criação de dashboards interativos.
 - **Python**: Para cálculos financeiros e confirmação dos resultados.
 - **Pandas**: Para manipulação de dados financeiros no Python.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
