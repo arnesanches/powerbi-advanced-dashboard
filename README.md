@@ -4,18 +4,18 @@
 
 This project consists of a **financial dashboard** created in Power BI, with detailed calculations and visualizations on revenue, costs, profits, taxes, profit margin, and cash flow. The results are directly extracted from a set of financial data, and the dashboard is designed to provide insights into an organization's financial performance.
 
-## Objective
+## Description
 
-The main objective of this project was to create an interactive dashboard in Power BI to present financial data in a clear and visually appealing manner, using the following calculations:
+This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank.
 
-- **Total revenue**
-- **Total costs**
-- **Taxes (15% of revenue)**
-- **Total profit**
-- **Profit margin**
-- **Cash flow**
-- **Percentage of transactions via Pix**
-- **Profit margin deviation by city**
+## Key Features:
+
+- **Dynamic Charts**: All charts, including the waterfall chart and indicators, change according to the selection, facilitating decision-making based on financial data.  
+- **Updated Values**: Key values such as revenue, costs, taxes, and profit, located at the top of the dashboard, are also dynamically adjusted.  
+- **Custom Comments**: Even the brief comment on the dashboard, which includes numerical variables, changes according to the selected bank.  
+- **Intuitive Design**: Focused on delivering a user-friendly experience, even for non-technical users.  
+
+These features provide a highly interactive user experience, making financial analysis more practical and engaging.
 
 ## How It Works
 
@@ -92,20 +92,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 # Power BI Dashboard
 
-Este projeto consiste em um **dashboard financeiro** criado no Power BI, com cálculos e visualizações detalhadas sobre receita, custos, lucros, impostos, margem de lucro e fluxo de caixa. Os resultados são extraídos diretamente de um conjunto de dados financeiros, e o dashboard é projetado para fornecer insights sobre a performance financeira de uma organização.
+## Descrição
 
-## Objetivo
+Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco.  
 
-O principal objetivo deste projeto foi criar um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente, utilizando os seguintes cálculos:
+## Principais Características:
 
-- **Receita total**
-- **Custos totais**
-- **Impostos (15% da receita)**
-- **Lucro total**
-- **Margem de lucro**
-- **Fluxo de caixa**
-- **Percentual de transações via Pix**
-- **Desvio de meta de margem de lucro por cidade**
+- **Gráficos Dinâmicos**: Todos os gráficos, incluindo o gráfico de cascata e os indicadores, mudam de acordo com a seleção, facilitando a tomada de decisões com base em dados financeiros.  
+- **Valores Atualizados**: Os valores principais, como receita, custos, impostos e lucro, localizados na parte superior do dashboard, também são ajustados dinamicamente.  
+- **Comentários Personalizados**: Até mesmo o breve comentário no dashboard, que contém variáveis numéricas, é alterado conforme o banco selecionado.
+- **Design Intuitivo**: Focado em entregar uma experiência amigável, mesmo para usuários não técnicos.  
+
+Essas funcionalidades proporcionam uma experiência de usuário altamente interativa, tornando a análise financeira mais prática e envolvente.  
 
 ## Como Funciona
 
