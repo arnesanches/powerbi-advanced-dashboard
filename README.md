@@ -36,7 +36,7 @@ The input data is loaded from an Excel file, which contains information about fi
 
 1. **Load financial data** from an Excel file.
 2. **Create interactive visualizations** to represent the calculations and metrics clearly and visually.
-3. **Set up images and logos** for the banks, ensuring a professional design for the dashboard.
+3. **Set up logos** for the banks, ensuring a professional design for the dashboard.
 
 ## How Python Was Used
 
@@ -57,8 +57,8 @@ The Python code is present in this repository as an extra confirmation of the va
 
 The repository contains the following files:
 
-- **/python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
-- **/powerbi_dashboard**: Power BI dashboard file (.pbix).
+- **python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
+- **powerbi_dashboard**: Power BI dashboard file (.pbix).
 - **README.md**: This file, which explains the project, how it works, and how the code is structured.
 
 ## How to Run the Project
@@ -125,7 +125,7 @@ O **Power BI** foi a principal ferramenta usada para:
 
 1. **Carregar os dados financeiros** a partir de um arquivo Excel.
 2. **Criar visualizações interativas** para representar os cálculos e as métricas de maneira clara e visual.
-3. **Configurar imagens e logotipos** para os bancos, garantindo um design profissional no dashboard.
+3. **Configurar logotipos** para os bancos, garantindo um design profissional no dashboard.
 
 ## Como o Python foi usado
 
@@ -146,8 +146,8 @@ O código Python está presente neste repositório como uma confirmação extra 
 
 O repositório contém os seguintes arquivos:
 
-- **/python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
-- **/powerbi_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
+- **python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
+- **powerbi_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
 ## Como Executar o Projeto
