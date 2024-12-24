@@ -1,4 +1,95 @@
-# Projeto de Dashboard Financeiro no Power BI
+### English
+
+# Power BI Dashboard
+
+This project consists of a **financial dashboard** created in Power BI, with detailed calculations and visualizations on revenue, costs, profits, taxes, profit margin, and cash flow. The results are directly extracted from a set of financial data, and the dashboard is designed to provide insights into an organization's financial performance.
+
+## Objective
+
+The main objective of this project was to create an interactive dashboard in Power BI to present financial data in a clear and visually appealing manner, using the following calculations:
+
+- **Total revenue**
+- **Total costs**
+- **Taxes (15% of revenue)**
+- **Total profit**
+- **Profit margin**
+- **Cash flow**
+- **Percentage of transactions via Pix**
+- **Profit margin deviation by city**
+
+## How It Works
+
+The input data is loaded from an Excel file, which contains information about financial transactions, such as transaction type (revenue or payment) and payment method. This data is then used to calculate the following indicators:
+
+- **Total revenue**: The sum of all revenue transactions.
+- **Total costs**: The sum of all payment transactions (negative values).
+- **Taxes**: Calculated as 15% of total revenue.
+- **Total profit**: Total revenue - Total costs - Taxes.
+- **Profit margin**: Calculated as the ratio of profit to total revenue.
+- **Cash flow**: The difference between total revenue and total payments.
+- **Percentage of transactions via Pix**: The percentage of transactions made via Pix.
+- **Target deviation**: Comparison between the profit margin of different cities and the target of 30%.
+
+## How Power BI Was Used
+
+**Power BI** was the main tool used to:
+
+1. **Load financial data** from an Excel file.
+2. **Create interactive visualizations** to represent the calculations and metrics clearly and visually.
+3. **Set up images and logos** for the banks, ensuring a professional design for the dashboard.
+
+## How Python Was Used
+
+Although Power BI was the main tool for generating the calculations and the dashboard, Python code was used to calculate the variables and ensure the consistency of the values presented. The Python code performs the following calculations:
+
+- **Total revenue**
+- **Total costs**
+- **Taxes (15% of revenue)**
+- **Total profit**
+- **Profit margin**
+- **Cash flow**
+- **Percentage of transactions via Pix**
+- **Target deviation**
+
+The Python code is present in this repository as an extra confirmation of the values calculated in Power BI, providing "proof" that the results are consistent and accurate.
+
+## Repository Structure
+
+The repository contains the following files:
+
+- **/python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
+- **/powerbi_dashboard**: Power BI dashboard file (.pbix).
+- **README.md**: This file, which explains the project, how it works, and how the code is structured.
+
+## How to Run the Project
+
+1. **Power BI**:
+    - Open the `dashboard.pbix` file in Power BI Desktop.
+    - The dashboard will automatically load the financial data and display the interactive visualizations.
+  
+2. **Python**:
+    - If you want to verify the calculations, you can run the `script.py` or `script.ipynb` files in a Python environment.
+    - The calculations made in Python are an extra confirmation of the values in Power BI.
+
+## Conclusion
+
+This project was developed to demonstrate skills in using **Power BI** for financial data analysis and creating interactive visualizations. Additionally, the use of **Python** as a tool for verifying the calculations shows the accuracy and consistency of the data presented. The combination of these two tools is a powerful way to present financial insights clearly and effectively.
+
+## Technologies Used
+
+- **Power BI**: For visualization and creating interactive dashboards.
+- **Python**: For financial calculations and verification of results.
+- **Pandas**: For financial data manipulation in Python.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### Português
+
+# Power BI Dashboard
 
 Este projeto consiste em um **dashboard financeiro** criado no Power BI, com cálculos e visualizações detalhadas sobre receita, custos, lucros, impostos, margem de lucro e fluxo de caixa. Os resultados são extraídos diretamente de um conjunto de dados financeiros, e o dashboard é projetado para fornecer insights sobre a performance financeira de uma organização.
 
@@ -53,10 +144,10 @@ O código Python está presente neste repositório como uma confirmação extra 
 
 ## Estrutura do Repositório
 
-O repositório contém as seguintes pastas e arquivos:
+O repositório contém os seguintes arquivos:
 
-- **/python_code**: Contém os scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
-- **/powerbi_dashboard**: Contém o arquivo do dashboard criado no Power BI (.pbix).
+- **/python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
+- **/powerbi_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
 ## Como Executar o Projeto
