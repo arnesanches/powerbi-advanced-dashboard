@@ -1,6 +1,6 @@
 ### English
 
-# Power BI Dashboard
+# Power BI Advanced Dashboard
 
 ## Description
 
@@ -56,14 +56,14 @@ The Python code is present in this repository as an extra confirmation of the va
 The repository contains the following files:
 
 - **python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
-- **powerbi_dashboard**: Power BI dashboard file (.pbix).
+- **powerbi_advanced_dashboard**: Power BI dashboard file (.pbix).
 - **excel_data**: Excel file with the financial transaction data.
 - **README.md**: This file, which explains the project, how it works, and how the code is structured.
 
 ## How to Run the Project
 
 1. **Power BI**:
-    - Open the `powerbi_dashboard.pbix` file in Power BI Desktop.
+    - Open the `powerbi_advanced_dashboard.pbix` file in Power BI Desktop.
     - The dashboard will automatically load the financial data and display the interactive visualizations.
   
 2. **Python**:
@@ -88,7 +88,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Português
 
-# Power BI Dashboard
+# Power BI Advanced Dashboard
 
 ## Descrição
 
@@ -144,14 +144,14 @@ O código Python está presente neste repositório como uma confirmação extra 
 O repositório contém os seguintes arquivos:
 
 - **python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
-- **powerbi_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
+- **powerbi_advanced_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
 - **excel_data**: Arquivo Excel com os dados de transações financeiras.
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
 ## Como Executar o Projeto
 
 1. **Power BI**:
-    - Abra o arquivo `powerbi_dashboard.pbix` no Power BI Desktop.
+    - Abra o arquivo `powerbi_advanced_dashboard.pbix` no Power BI Desktop.
     - O dashboard irá carregar automaticamente os dados financeiros e exibir as visualizações interativas.
   
 2. **Python**:
