@@ -59,16 +59,17 @@ The repository contains the following files:
 
 - **python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
 - **powerbi_dashboard**: Power BI dashboard file (.pbix).
+- **excel_data**: Excel file with the financial transaction data.
 - **README.md**: This file, which explains the project, how it works, and how the code is structured.
 
 ## How to Run the Project
 
 1. **Power BI**:
-    - Open the `dashboard.pbix` file in Power BI Desktop.
+    - Open the `powerbi_dashboard.pbix` file in Power BI Desktop.
     - The dashboard will automatically load the financial data and display the interactive visualizations.
   
 2. **Python**:
-    - If you want to verify the calculations, you can run the `script.py` or `script.ipynb` files in a Python environment.
+    - If you want to verify the calculations, you can run the `python_code.py` or `python_code.ipynb` files in a Python environment.
     - The calculations made in Python are an extra confirmation of the values in Power BI.
 
 ## Conclusion
@@ -148,16 +149,17 @@ O repositório contém os seguintes arquivos:
 
 - **python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
 - **powerbi_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
+- **excel_data**: Arquivo Excel com os dados de transações financeiras.
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
 ## Como Executar o Projeto
 
 1. **Power BI**:
-    - Abra o arquivo `dashboard.pbix` no Power BI Desktop.
+    - Abra o arquivo `powerbi_dashboard.pbix` no Power BI Desktop.
     - O dashboard irá carregar automaticamente os dados financeiros e exibir as visualizações interativas.
   
 2. **Python**:
-    - Se quiser conferir os cálculos realizados, você pode executar os arquivos `script.py` ou `script.ipynb` no ambiente Python.
+    - Se quiser conferir os cálculos realizados, você pode executar os arquivos `python_code.py` ou `python_code.ipynb` no ambiente Python.
     - Os cálculos feitos no Python são uma confirmação extra dos valores que estão no Power BI.
 
 ## Conclusão
