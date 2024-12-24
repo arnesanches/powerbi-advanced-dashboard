@@ -6,6 +6,10 @@
 
 This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank.
 
+## Video Demonstration
+
+To view the interactivity and dynamism of this dashboard, watch the demonstration video, which is located in the same directory as the project. In this brief video, you can see how the data is automatically updated when selecting different banks, highlighting the interactive features and dynamic changes in the dashboard.
+
 ## Key Features:
 
 - **Dynamic Charts**: All charts, including the waterfall chart and indicators, change according to the selection, facilitating decision-making based on financial data.  
@@ -58,6 +62,7 @@ The repository contains the following files:
 - **python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
 - **powerbi_advanced_dashboard**: Power BI dashboard file (.pbix).
 - **excel_data**: Excel file with the financial transaction data.
+- **Dashboard Demonstration**: A brief video that demonstrates the interactivity and dynamism of the dashboard, showing how the data is automatically updated when selecting different banks.
 - **README.md**: This file, which explains the project, how it works, and how the code is structured.
 
 ## How to Run the Project
@@ -93,6 +98,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Descrição
 
 Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco.  
+
+## Demonstração em Vídeo
+
+Para visualizar a interatividade e o dinamismo deste dashboard, assista ao vídeo de demonstração, que se encontra no mesmo diretório do projeto. Nesse breve vídeo, é possível ver como os dados são atualizados automaticamente ao selecionar diferentes bancos, destacando as funcionalidades interativas e as mudanças dinâmicas no dashboard.
 
 ## Principais Características:
 
@@ -146,6 +155,7 @@ O repositório contém os seguintes arquivos:
 - **python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
 - **powerbi_advanced_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
 - **excel_data**: Arquivo Excel com os dados de transações financeiras.
+- **Dashboard Demonstration**: Vídeo breve que demonstra a interatividade e o dinamismo do dashboard, mostrando como os dados são atualizados automaticamente ao selecionar diferentes bancos.
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
 ## Como Executar o Projeto
