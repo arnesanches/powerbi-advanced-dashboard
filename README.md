@@ -2,8 +2,6 @@
 
 # Power BI Dashboard
 
-This project consists of a **financial dashboard** created in Power BI, with detailed calculations and visualizations on revenue, costs, profits, taxes, profit margin, and cash flow. The results are directly extracted from a set of financial data, and the dashboard is designed to provide insights into an organization's financial performance.
-
 ## Description
 
 This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank.
