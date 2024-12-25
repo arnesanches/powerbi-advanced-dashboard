@@ -1,4 +1,4 @@
-### English
+#### English
 
 # Power BI Advanced Dashboard
 
@@ -87,7 +87,7 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 
 ---
 
-### Português
+#### Português
 
 # Power BI Advanced Dashboard
 
