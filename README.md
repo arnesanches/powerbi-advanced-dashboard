@@ -4,7 +4,7 @@
 
 ## Description
 
-This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank.
+This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank. The Excel data is integrated into the Power BI .pbix file, eliminating the need to load external files to view the dashboard.
 
 ## Video Demonstration
 
@@ -59,9 +59,8 @@ The Python code is present in this repository as an extra confirmation of the va
 
 The repository contains the following files:
 
-- **python_code**: Python scripts that perform the financial calculations and ensure the consistency of the results.
+- **python_code**: Python script that performs the financial calculations and ensure the consistency of the results.
 - **powerbi_advanced_dashboard**: Power BI dashboard file (.pbix).
-- **excel_data**: Excel file with the financial transaction data.
 - **Dashboard Demonstration**: A brief video that demonstrates the interactivity and dynamism of the dashboard, showing how the data is automatically updated when selecting different banks.
 - **README.md**: This file, which explains the project, how it works, and how the code is structured.
 
@@ -72,7 +71,7 @@ The repository contains the following files:
     - The dashboard will automatically load the financial data and display the interactive visualizations.
   
 2. **Python**:
-    - If you want to verify the calculations, you can run the `python_code.py` or `python_code.ipynb` files in a Python environment.
+    - If you want to verify the calculations, you can run the `python_code.py` file in a Python environment.
     - The calculations made in Python are an extra confirmation of the values in Power BI.
 
 ## Conclusion
@@ -93,7 +92,7 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 
 ## Descrição
 
-Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco.  
+Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco. Os dados da planilha Excel estão integrados no arquivo .pbix do Power BI, eliminando a necessidade de carregar arquivos externos para visualizar o dashboard.
 
 ## Demonstração em Vídeo
 
@@ -148,9 +147,8 @@ O código Python está presente neste repositório como uma confirmação extra 
 
 O repositório contém os seguintes arquivos:
 
-- **python_code**: Scripts Python que realizam os cálculos financeiros e garantem a consistência dos resultados.
+- **python_code**: Script Python que realiza os cálculos financeiros e garantem a consistência dos resultados.
 - **powerbi_advanced_dashboard**: Arquivo do dashboard criado no Power BI (.pbix).
-- **excel_data**: Arquivo Excel com os dados de transações financeiras.
 - **Dashboard Demonstration**: Vídeo breve que demonstra a interatividade e o dinamismo do dashboard, mostrando como os dados são atualizados automaticamente ao selecionar diferentes bancos.
 - **README.md**: Este arquivo, que explica o projeto, como ele funciona e como o código foi estruturado.
 
@@ -161,7 +159,7 @@ O repositório contém os seguintes arquivos:
     - O dashboard irá carregar automaticamente os dados financeiros e exibir as visualizações interativas.
   
 2. **Python**:
-    - Se quiser conferir os cálculos realizados, você pode executar os arquivos `python_code.py` ou `python_code.ipynb` no ambiente Python.
+    - Se quiser conferir os cálculos realizados, você pode executar o arquivo `python_code.py` no ambiente Python.
     - Os cálculos feitos no Python são uma confirmação extra dos valores que estão no Power BI.
 
 ## Conclusão
