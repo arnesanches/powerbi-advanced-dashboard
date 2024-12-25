@@ -6,9 +6,9 @@
 
 This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank. The Excel data is integrated into the Power BI .pbix file, eliminating the need to load external files to view the dashboard.
 
-## Video Demonstration
+## Demonstration Video
 
-To view the interactivity and dynamism of this dashboard, watch the demonstration video, which is located in the same directory as the project. In this brief video, you can see how the data is automatically updated when selecting different banks, highlighting the interactive features and dynamic changes in the dashboard.
+To experience the interactivity and dynamism of the dashboard, download the "Dashboard Demonstration" video located in the project directory. GitHub does not support direct video playback, so you will need to download the file to watch it.
 
 ## Key Features:
 
@@ -19,41 +19,21 @@ To view the interactivity and dynamism of this dashboard, watch the demonstratio
 
 These features provide a highly interactive user experience, making financial analysis more practical and engaging.
 
-## How It Works
+## How It Works and Tools Used
 
-The input data is loaded from an Excel file, which contains information about financial transactions, such as transaction type (revenue or payment) and payment method. This data is then used to calculate the following indicators:
+The input data, derived from an Excel spreadsheet, contains financial information such as transaction type (revenue or payment) and payment method. From this data, key indicators were calculated, including total revenue, total costs, profit, profit margin, cash flow, and the percentage of transactions via Pix.
 
-- **Total revenue**: The sum of all revenue transactions.
-- **Total costs**: The sum of all payment transactions (negative values).
-- **Taxes**: Calculated as 15% of total revenue.
-- **Total profit**: Total revenue - Total costs - Taxes.
-- **Profit margin**: Calculated as the ratio of profit to total revenue.
-- **Cash flow**: The difference between total revenue and total payments.
-- **Percentage of transactions via Pix**: The percentage of transactions made via Pix.
-- **Target deviation**: Comparison between the profit margin of different cities and the target of 30%.
+### Use of Power BI
 
-## How Power BI Was Used
+**Power BI** was used to create the interactive dashboard, presenting results in a clear and visual manner. The tool enables:
 
-**Power BI** was the main tool used to:
+- Loading financial data directly integrated into the Power BI (.pbix) file.  
+- Presenting metrics and insights dynamically and interactively.  
+- Customizing the design, including bank logos, for a professional visual experience.
 
-1. **Load financial data** from an Excel file.
-2. **Create interactive visualizations** to represent the calculations and metrics clearly and visually.
-3. **Set up logos** for the banks, ensuring a professional design for the dashboard.
+### Use of Python
 
-## How Python Was Used
-
-Although Power BI was the main tool for generating the calculations and the dashboard, Python code was used to calculate the variables and ensure the consistency of the values presented. The Python code performs the following calculations:
-
-- **Total revenue**
-- **Total costs**
-- **Taxes (15% of revenue)**
-- **Total profit**
-- **Profit margin**
-- **Cash flow**
-- **Percentage of transactions via Pix**
-- **Target deviation**
-
-The Python code is present in this repository as an extra confirmation of the values calculated in Power BI, providing "proof" that the results are consistent and accurate.
+**Python** was employed as an additional step to validate the financial calculations, ensuring consistency and accuracy. The calculations include indicators such as revenue, costs, taxes, profit, and profit margin.
 
 ## Repository Structure
 
@@ -94,9 +74,9 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 
 Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco. Os dados da planilha Excel estão integrados no arquivo .pbix do Power BI, eliminando a necessidade de carregar arquivos externos para visualizar o dashboard.
 
-## Demonstração em Vídeo
+## Vídeo de Demonstração
 
-Para visualizar a interatividade e o dinamismo deste dashboard, assista ao vídeo de demonstração, que se encontra no mesmo diretório do projeto. Nesse breve vídeo, é possível ver como os dados são atualizados automaticamente ao selecionar diferentes bancos, destacando as funcionalidades interativas e as mudanças dinâmicas no dashboard.
+Para visualizar a interatividade e o dinamismo do dashboard, faça o download do vídeo "Dashboard Demonstration" que está no mesmo diretório do projeto. O GitHub não suporta a reprodução de vídeos diretamente, então é necessário baixar o arquivo para assisti-lo.
 
 ## Principais Características:
 
@@ -107,41 +87,21 @@ Para visualizar a interatividade e o dinamismo deste dashboard, assista ao víde
 
 Essas funcionalidades proporcionam uma experiência de usuário altamente interativa, tornando a análise financeira mais prática e envolvente.  
 
-## Como Funciona
+## Como Funciona e Ferramentas Utilizadas
 
-Os dados de entrada são carregados a partir de um arquivo Excel, que contém informações sobre transações financeiras, como tipo de movimentação (recebimento ou pagamento) e forma de pagamento. Esses dados são então usados para calcular os seguintes indicadores:
+Os dados de entrada, provenientes de uma planilha Excel, contêm informações financeiras, como tipo de movimentação (recebimento ou pagamento) e forma de pagamento. A partir desses dados, foram calculados indicadores essenciais, como receita total, custos totais, lucro, margem de lucro, fluxo de caixa e percentual de transações via Pix.
 
-- **Receita total**: A soma de todos os recebimentos.
-- **Custos totais**: A soma de todos os pagamentos (valores negativos).
-- **Impostos**: Calculado como 15% da receita total.
-- **Lucro total**: Receita total - Custos totais - Impostos.
-- **Margem de lucro**: Calculada como a razão entre o lucro e a receita total.
-- **Fluxo de caixa**: A diferença entre recebimentos totais e pagamentos totais.
-- **Percentual de transações via Pix**: A porcentagem de transações realizadas via Pix.
-- **Desvio de meta**: Comparação entre a margem de lucro de diferentes cidades e a meta de 30%.
+### Uso do Power BI
 
-## Como o Power BI foi usado
+O **Power BI** foi utilizado para criar o dashboard interativo, apresentando os resultados de maneira clara e visual. A ferramenta permite:
 
-O **Power BI** foi a principal ferramenta usada para:
+- Carregar os dados financeiros integrados diretamente no arquivo Power BI (.pbix).  
+- Apresentar métricas e insights de forma dinâmica e interativa.  
+- Personalizar o design, incluindo logotipos de bancos, para uma experiência visual profissional.
 
-1. **Carregar os dados financeiros** a partir de um arquivo Excel.
-2. **Criar visualizações interativas** para representar os cálculos e as métricas de maneira clara e visual.
-3. **Configurar logotipos** para os bancos, garantindo um design profissional no dashboard.
+### Uso do Python
 
-## Como o Python foi usado
-
-Embora o Power BI tenha sido a ferramenta principal para gerar os cálculos e o dashboard, o código Python foi utilizado para calcular as variáveis e garantir a consistência dos valores apresentados. O código Python realiza os seguintes cálculos:
-
-- **Receita total**
-- **Custos totais**
-- **Impostos (15% da receita)**
-- **Lucro total**
-- **Margem de lucro**
-- **Fluxo de caixa**
-- **Percentual de transações via Pix**
-- **Desvio de meta**
-
-O código Python está presente neste repositório como uma confirmação extra dos valores calculados no Power BI, fornecendo uma "prova" de que os resultados são consistentes e precisos.
+O **Python** foi empregado como uma etapa adicional para validar os cálculos financeiros, garantindo consistência e precisão. Os cálculos incluem indicadores como receita, custos, impostos, lucro e margem de lucro.
 
 ## Estrutura do Repositório
 
