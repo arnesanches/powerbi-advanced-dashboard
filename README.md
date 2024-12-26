@@ -2,8 +2,6 @@
 
 # Power BI Advanced Dashboard
 
-## Description
-
 This project features an interactive dashboard built in Power BI to present financial data in a clear and visually appealing way. One of the most impressive aspects of this project is the advanced interactivity of the dashboard. By hovering over or selecting a bank's logo, all the data in the dashboard is automatically updated to reflect the specific results for that bank. The Excel data is integrated into the Power BI .pbix file, eliminating the need to load external files to view the dashboard.
 
 ## Demonstration Video
@@ -69,8 +67,6 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 #### Português
 
 # Power BI Advanced Dashboard
-
-## Descrição
 
 Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco. Os dados da planilha Excel estão integrados no arquivo .pbix do Power BI, eliminando a necessidade de carregar arquivos externos para visualizar o dashboard.
 
