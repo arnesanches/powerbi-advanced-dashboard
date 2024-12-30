@@ -115,7 +115,7 @@ O repositório contém os seguintes arquivos:
 ## Como Executar o Projeto
 
 1. **Power BI**:
-    - Abra o arquivo `powerbi_advanced_dashboard.pbix` no Power BI Desktop. Você pode baixar a versão mais recente do Power BI [aqui](https://www.microsoft.com/store/productId/9NTGWVGZ7B0H).
+    - Abra o arquivo `powerbi_advanced_dashboard.pbix` no Power BI Desktop. Você pode baixar a versão mais recente do Power BI [aqui](https://www.microsoft.com/pt-br/download/details.aspx?id=58494).
     - O dashboard irá carregar automaticamente os dados financeiros e exibir as visualizações interativas.
   
 2. **Python**:
