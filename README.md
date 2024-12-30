@@ -45,7 +45,7 @@ The repository contains the following files:
 ## How to Run the Project
 
 1. **Power BI**:
-    - Open the `powerbi_advanced_dashboard.pbix` file in Power BI Desktop.
+    - Open the `powerbi_advanced_dashboard.pbix` file in Power BI Desktop. You can download the latest version of Power BI Desktop [here](https://www.microsoft.com/pt-br/download/details.aspx?id=58494).
     - The dashboard will automatically load the financial data and display the interactive visualizations.
   
 2. **Python**:
@@ -61,6 +61,10 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 - **Power BI**: For visualization and creating interactive dashboards.
 - **Python**: For financial calculations and verification of results.
 - **Pandas**: For financial data manipulation in Python.
+
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
@@ -111,7 +115,7 @@ O repositório contém os seguintes arquivos:
 ## Como Executar o Projeto
 
 1. **Power BI**:
-    - Abra o arquivo `powerbi_advanced_dashboard.pbix` no Power BI Desktop.
+    - Abra o arquivo `powerbi_advanced_dashboard.pbix` no Power BI Desktop. Você pode baixar a versão mais recente do Power BI [aqui](https://www.microsoft.com/store/productId/9NTGWVGZ7B0H).
     - O dashboard irá carregar automaticamente os dados financeiros e exibir as visualizações interativas.
   
 2. **Python**:
@@ -127,3 +131,7 @@ Este projeto foi desenvolvido para demonstrar habilidades no uso do **Power BI**
 - **Power BI**: Para visualização e criação de dashboards interativos.
 - **Python**: Para cálculos financeiros e confirmação dos resultados.
 - **Pandas**: Para manipulação de dados financeiros no Python.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
