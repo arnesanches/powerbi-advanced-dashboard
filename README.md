@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 # Power BI Advanced Dashboard
 
-Este projeto consiste em um dashboard interativo no Power BI para apresentar dados financeiros de maneira clara e visualmente atraente. Uma das características mais impressionantes deste projeto é a interatividade avançada do dashboard. Ao passar o mouse ou selecionar a logomarca de um banco, todos os dados no dashboard são atualizados automaticamente para refletir os resultados específicos daquele banco. Os dados da planilha Excel estão integrados no arquivo .pbix do Power BI, eliminando a necessidade de carregar arquivos externos para visualizar o dashboard.
+Este projeto consiste em um dashboard interativo no Power BI, desenvolvido para apresentar dados financeiros de forma clara e visualmente atraente. Um dos destaques mais impressionantes é a interatividade avançada do dashboard, que permite aos usuários filtrar os dados ao passar o mouse sobre a logomarca de um banco ou ao clicar nela, atualizando instantaneamente todos os elementos visuais. Isso possibilita comparações rápidas e eficientes. Além disso, os dados da planilha Excel estão incorporados no arquivo .pbix, eliminando a necessidade de arquivos externos e facilitando tanto a distribuição quanto o uso do dashboard.
 
 ## Vídeo de Demonstração
 
