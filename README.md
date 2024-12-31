@@ -1,4 +1,4 @@
-![Project Demonstration / Demonstração do Projeto]([https://github.com/arnesanches/powerbi-advanced-dashboard/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true])
+![Project Demonstration / Demonstração do Projeto](https://github.com/arnesanches/powerbi-advanced-dashboard/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true)
 
 #### English
 
