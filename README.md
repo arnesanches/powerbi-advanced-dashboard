@@ -65,6 +65,7 @@ This project was developed to demonstrate skills in using **Power BI** for finan
 
 This project is licensed under the MIT License.
 
+##
 ---
 
 #### Português
@@ -129,3 +130,6 @@ Este projeto foi desenvolvido para demonstrar habilidades no uso do **Power BI**
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
+
+##
+---
